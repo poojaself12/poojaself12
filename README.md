@@ -102,7 +102,7 @@ A production-ready eCommerce platform developed for a real client showcasing aut
 
 ---
 
-### 💼 [Jobryn](https://jobryn.com/)
+### 💼 [Jobryn]
 Developed the frontend of a modern recruitment platform connecting job seekers and recruiters with enterprise-level functionality.
 
 **Features:** Recruiter Dashboard • Job Seeker Dashboard • Job Management • Profile Management • Resume Management • Social Feed • Follow System • Notifications • Authentication • Responsive Design
@@ -111,7 +111,7 @@ Developed the frontend of a modern recruitment platform connecting job seekers a
 
 ---
 
-### 📣 [Influencer Platform](https://influencer.biznexcloud.com/)
+### 📣 [Influencer Platform]
 A digital influencer management platform designed for brands, influencers, and campaign management.
 
 **Features:** User Management • Campaign Management • Brand Dashboard • Influencer Dashboard • Profile Management • Analytics • Modern Responsive UI  • Intend based Automation
@@ -120,7 +120,7 @@ A digital influencer management platform designed for brands, influencers, and c
 
 ---
 
-### 🏢 [Biznex Accounting ERP](https://accounting.biznexcloud.com/)
+### 🏢 [Biznex Accounting ERP]
 A complete cloud-based ERP and accounting platform for business management with workflow automation.
 
 **Features:** Accounting • Inventory • CRM • Sales • Purchasing • HR Management • Reports & Analytics • User Roles & Permissions • Business Automation • Workflow Automation • WhatsApp Automation • API Integrations
