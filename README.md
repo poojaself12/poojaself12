@@ -2,7 +2,7 @@
 
 # Hi, I'm Pooja Dhungana 👋
 
-### Full Stack Developer | Python • Django • FastAPI • React • Next.js
+### Computer Engineer | Full Stack Developer | Python • Django • FastAPI • React • Next.js
 
 📍 Nepal 🇳🇵
 
