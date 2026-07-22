@@ -4,7 +4,7 @@
 
 📍 Nepal 🇳🇵
 
-[Portfolio](#) • [LinkedIn](#https://www.linkedin.com/in/poojadhungana) • [Email](mailto:@dhunganapooja515email.com)
+[Portfolio](#) • [LinkedIn](#https://www.linkedin.com/in/poojadhungana?utm_source=share_via&utm_content=profile&utm_medium=member_android) • [Email](mailto:@dhunganapooja515email.com)
 
 Building production-ready web applications, ERP systems, workflow automation, and scalable backend solutions for businesses.
 
