@@ -212,11 +212,9 @@ Working on production-grade software solutions including
 
 # 📫 Connect With Me
 
-📧 your@email.com
 dhunganapooja515@gmail.com
-💼 LinkedIn
 https://www.linkedin.com/in/poojadhungana
-🌐 Portfolio
+
 
 ---
 
