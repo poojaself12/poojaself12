@@ -120,7 +120,7 @@ A digital influencer management platform designed for brands, influencers, and c
 
 ---
 
-### 🏢 [Biznex Accounting ERP]
+### 🏢 [Biznex Accounting ERP](https://accounting.biznexcloud.com/)
 A complete cloud-based ERP and accounting platform for business management with workflow automation.
 
 **Features:** Accounting • Inventory • CRM • Sales • Purchasing • HR Management • Reports & Analytics • User Roles & Permissions • Business Automation • Workflow Automation • WhatsApp Automation • API Integrations
